@@ -1,6 +1,6 @@
 // @SOURCE:/home/muffin/play-scala/conf/routes
-// @HASH:8e202b1e1b0e70cb6e0562b40394a1dc4b9439aa
-// @DATE:Sun Mar 08 21:17:23 EDT 2015
+// @HASH:bc289d2de967d1218bc96e6419573dcd0621eba1
+// @DATE:Mon Mar 09 02:29:51 EDT 2015
 
 import Routes.{prefix => _prefix, defaultPrefix => _defaultPrefix}
 import play.core._
@@ -14,8 +14,9 @@ import _root_.controllers.Assets.Asset
 import Router.queryString
 
 
-// @LINE:17
-// @LINE:14
+// @LINE:19
+// @LINE:16
+// @LINE:15
 // @LINE:12
 // @LINE:11
 // @LINE:10
@@ -23,11 +24,11 @@ import Router.queryString
 // @LINE:6
 package controllers {
 
-// @LINE:17
+// @LINE:19
 class ReverseAssets {
 
 
-// @LINE:17
+// @LINE:19
 def at(file:String): Call = {
    implicit val _rrc = new ReverseRouteContext(Map(("path", "/public")))
    Call("GET", _prefix + { _defaultPrefix } + "assets/" + implicitly[PathBindable[String]].unbind("file", file))
@@ -37,7 +38,8 @@ def at(file:String): Call = {
 }
                           
 
-// @LINE:14
+// @LINE:16
+// @LINE:15
 // @LINE:12
 // @LINE:11
 // @LINE:10
@@ -47,9 +49,16 @@ class ReverseApplication {
 
 
 // @LINE:12
+def csvExample2(): Call = {
+   import ReverseRouteContext.empty
+   Call("GET", _prefix + { _defaultPrefix } + "csv-example2")
+}
+                        
+
+// @LINE:15
 def formprocessing(): Call = {
    import ReverseRouteContext.empty
-   Call("POST", _prefix + { _defaultPrefix } + "test-page/submit")
+   Call("POST", _prefix + { _defaultPrefix } + "initial-page/submit")
 }
                         
 
@@ -68,9 +77,9 @@ def csvExample(): Call = {
                         
 
 // @LINE:9
-def testPage(): Call = {
+def initialPage(): Call = {
    import ReverseRouteContext.empty
-   Call("GET", _prefix + { _defaultPrefix } + "test-page")
+   Call("GET", _prefix + { _defaultPrefix } + "initial-page")
 }
                         
 
@@ -81,7 +90,7 @@ def index(): Call = {
 }
                         
 
-// @LINE:14
+// @LINE:16
 def mapDistance(mapfile:String): Call = {
    import ReverseRouteContext.empty
    Call("GET", _prefix + { _defaultPrefix } + "map-distance/" + implicitly[PathBindable[String]].unbind("mapfile", dynamicString(mapfile)))
@@ -94,8 +103,9 @@ def mapDistance(mapfile:String): Call = {
                   
 
 
-// @LINE:17
-// @LINE:14
+// @LINE:19
+// @LINE:16
+// @LINE:15
 // @LINE:12
 // @LINE:11
 // @LINE:10
@@ -104,11 +114,11 @@ def mapDistance(mapfile:String): Call = {
 package controllers.javascript {
 import ReverseRouteContext.empty
 
-// @LINE:17
+// @LINE:19
 class ReverseAssets {
 
 
-// @LINE:17
+// @LINE:19
 def at : JavascriptReverseRoute = JavascriptReverseRoute(
    "controllers.Assets.at",
    """
@@ -122,7 +132,8 @@ def at : JavascriptReverseRoute = JavascriptReverseRoute(
 }
               
 
-// @LINE:14
+// @LINE:16
+// @LINE:15
 // @LINE:12
 // @LINE:11
 // @LINE:10
@@ -132,11 +143,22 @@ class ReverseApplication {
 
 
 // @LINE:12
+def csvExample2 : JavascriptReverseRoute = JavascriptReverseRoute(
+   "controllers.Application.csvExample2",
+   """
+      function() {
+      return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "csv-example2"})
+      }
+   """
+)
+                        
+
+// @LINE:15
 def formprocessing : JavascriptReverseRoute = JavascriptReverseRoute(
    "controllers.Application.formprocessing",
    """
       function() {
-      return _wA({method:"POST", url:"""" + _prefix + { _defaultPrefix } + """" + "test-page/submit"})
+      return _wA({method:"POST", url:"""" + _prefix + { _defaultPrefix } + """" + "initial-page/submit"})
       }
    """
 )
@@ -165,11 +187,11 @@ def csvExample : JavascriptReverseRoute = JavascriptReverseRoute(
                         
 
 // @LINE:9
-def testPage : JavascriptReverseRoute = JavascriptReverseRoute(
-   "controllers.Application.testPage",
+def initialPage : JavascriptReverseRoute = JavascriptReverseRoute(
+   "controllers.Application.initialPage",
    """
       function() {
-      return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "test-page"})
+      return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "initial-page"})
       }
    """
 )
@@ -186,7 +208,7 @@ def index : JavascriptReverseRoute = JavascriptReverseRoute(
 )
                         
 
-// @LINE:14
+// @LINE:16
 def mapDistance : JavascriptReverseRoute = JavascriptReverseRoute(
    "controllers.Application.mapDistance",
    """
@@ -203,8 +225,9 @@ def mapDistance : JavascriptReverseRoute = JavascriptReverseRoute(
         
 
 
-// @LINE:17
-// @LINE:14
+// @LINE:19
+// @LINE:16
+// @LINE:15
 // @LINE:12
 // @LINE:11
 // @LINE:10
@@ -213,11 +236,11 @@ def mapDistance : JavascriptReverseRoute = JavascriptReverseRoute(
 package controllers.ref {
 
 
-// @LINE:17
+// @LINE:19
 class ReverseAssets {
 
 
-// @LINE:17
+// @LINE:19
 def at(path:String, file:String): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
    controllers.Assets.at(path, file), HandlerDef(this.getClass.getClassLoader, "", "controllers.Assets", "at", Seq(classOf[String], classOf[String]), "GET", """ Map static resources from the /public folder to the /assets URL path""", _prefix + """assets/$file<.+>""")
 )
@@ -226,7 +249,8 @@ def at(path:String, file:String): play.api.mvc.HandlerRef[_] = new play.api.mvc.
 }
                           
 
-// @LINE:14
+// @LINE:16
+// @LINE:15
 // @LINE:12
 // @LINE:11
 // @LINE:10
@@ -236,8 +260,14 @@ class ReverseApplication {
 
 
 // @LINE:12
+def csvExample2(): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
+   controllers.Application.csvExample2(), HandlerDef(this.getClass.getClassLoader, "", "controllers.Application", "csvExample2", Seq(), "GET", """""", _prefix + """csv-example2""")
+)
+                      
+
+// @LINE:15
 def formprocessing(): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
-   controllers.Application.formprocessing(), HandlerDef(this.getClass.getClassLoader, "", "controllers.Application", "formprocessing", Seq(), "POST", """""", _prefix + """test-page/submit""")
+   controllers.Application.formprocessing(), HandlerDef(this.getClass.getClassLoader, "", "controllers.Application", "formprocessing", Seq(), "POST", """initially attempted to create a db driven map storing method.""", _prefix + """initial-page/submit""")
 )
                       
 
@@ -254,8 +284,8 @@ def csvExample(): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
                       
 
 // @LINE:9
-def testPage(): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
-   controllers.Application.testPage(), HandlerDef(this.getClass.getClassLoader, "", "controllers.Application", "testPage", Seq(), "GET", """ Home page""", _prefix + """test-page""")
+def initialPage(): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
+   controllers.Application.initialPage(), HandlerDef(this.getClass.getClassLoader, "", "controllers.Application", "initialPage", Seq(), "GET", """ Home page""", _prefix + """initial-page""")
 )
                       
 
@@ -265,7 +295,7 @@ def index(): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
 )
                       
 
-// @LINE:14
+// @LINE:16
 def mapDistance(mapfile:String): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
    controllers.Application.mapDistance(mapfile), HandlerDef(this.getClass.getClassLoader, "", "controllers.Application", "mapDistance", Seq(classOf[String]), "GET", """""", _prefix + """map-distance/$mapfile<[^/]+>""")
 )

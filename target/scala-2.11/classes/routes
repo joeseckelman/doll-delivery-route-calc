@@ -6,11 +6,13 @@
 GET     /                           controllers.Application.index
 
 # Home page
-GET     /test-page                  controllers.Application.testPage
+GET     /initial-page                  controllers.Application.initialPage
 GET     /scala-example              controllers.Application.scalaExample
 GET     /csv-example                controllers.Application.csvExample
-POST    /test-page/submit           controllers.Application.formprocessing
+GET     /csv-example2               controllers.Application.csvExample2
 
+#initially attempted to create a db driven map storing method.
+POST    /initial-page/submit           controllers.Application.formprocessing
 GET     /map-distance/:mapfile		controllers.Application.mapDistance(mapfile: String)
 
 # Map static resources from the /public folder to the /assets URL path

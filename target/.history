@@ -1,0 +1,6 @@
+loadFile
+--help
+activator test
+test
+activator run
+run

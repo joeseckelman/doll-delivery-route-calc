@@ -1,6 +1,6 @@
 // @SOURCE:/home/muffin/play-scala/conf/routes
-// @HASH:8e202b1e1b0e70cb6e0562b40394a1dc4b9439aa
-// @DATE:Sun Mar 08 21:17:23 EDT 2015
+// @HASH:bc289d2de967d1218bc96e6419573dcd0621eba1
+// @DATE:Mon Mar 09 02:29:51 EDT 2015
 
 package controllers;
 

@@ -1,0 +1,11 @@
+@(message: String)
+
+@main("Test page title here") {
+
+    <h2>Copy Any past Map Details below:</h2>
+    <form action="@routes.Application.formprocessing()" method="post">
+    	<textarea placeholder="Map Coordintes" name="maptext"></textarea><br />
+    	<input type="submit" class="btn bt-primary" value="Submit" />
+    </form>
+
+}

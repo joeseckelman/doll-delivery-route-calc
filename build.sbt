@@ -1,4 +1,4 @@
-name := """play-scala"""
+name := """Doll Delivery Route Calculator"""
 
 version := "1.0-SNAPSHOT"
 

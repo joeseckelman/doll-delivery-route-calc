@@ -1,4 +1,2 @@
-[0m[[31merror[0m] [0m/home/muffin/play-scala/app/controllers/Application.scala:29: not found: value CsvSyntax[0m
-[0m[[31merror[0m] [0m    val (distance, path) = DeliverySolver.dijkstra("public/test_data_1.csv", CsvSyntax)[0m
-[0m[[31merror[0m] [0m                                                                             ^[0m
-[0m[[31merror[0m] [0mone error found[0m
+[0m[[33mwarn[0m] [0mthere were 1 feature warning(s); re-run with -feature for details[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
