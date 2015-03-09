@@ -1,0 +1,98 @@
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[0mdebug[0m] [0mRunner for com.novocode.junit.JUnitFramework produced 0 initial tasks for 0 tests.[0m
+[0m[[0mdebug[0m] [0mRunner for org.specs2.runner.Specs2Framework produced 7 initial tasks for 7 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(dolldelivery.DeliverySolverSpec, sbt.ForkMain$SubclassFingerscan@43401ab6, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mDeliverySolverSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mDeliverySolver should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m solve test data 1[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m solve test data 2[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m solve test data 3[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification DeliverySolverSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 99 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m3 examples, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 3 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(dolldelivery.ValidatorSpec, sbt.ForkMain$SubclassFingerscan@6f499d55, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mValidatorSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mSyntax Validator should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m recognize valid edge lines[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m fail on invalid edge lines[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m recognize the initial vertex[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m recognize the final vertex[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m detect start and end declaration existence[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification ValidatorSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 16 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m5 examples, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 5 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(dolldelivery.ExtractorSpec, sbt.ForkMain$SubclassFingerscan@555bbc6, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mExtractorSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mExtractor should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m extract proper information from lines[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m extract the proper number of edges[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m extract the proper start vertex[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m extract the proper end vertex[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification ExtractorSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 7 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m4 examples, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 4 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(dolldelivery.DijkstraAlgorithmSpec, sbt.ForkMain$SubclassFingerscan@58f71157, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mDijkstraAlgorithmSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mDijkstraAlgorithm should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m recognize unvisited neighbors[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m find the correct distance between connected vertices[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m give the proper distance and path for test data 1[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification DijkstraAlgorithmSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 13 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m3 examples, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 3 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(dolldelivery.FileLoaderSpec, sbt.ForkMain$SubclassFingerscan@3ead443d, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mFileLoaderSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mFileLoader should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m load all the edges from a file[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m load the correct start/end vertices[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification FileLoaderSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 14 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m2 examples, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 2 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(ApplicationSpec, sbt.ForkMain$SubclassFingerscan@6e5c74dc, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mApplicationSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mApplication should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m send 404 on a bad request[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m render the index page[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification ApplicationSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 854 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m2 examples, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 2 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(IntegrationSpec, sbt.ForkMain$SubclassFingerscan@40a1f3f, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mIntegrationSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mApplication should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m work from within a browser[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification IntegrationSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 1 second, 455 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[0mdebug[0m] [0mSummary for specs2 not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 20, Failed 0, Errors 0, Passed 20[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	dolldelivery.DijkstraAlgorithmSpec[0m
+[0m[[0mdebug[0m] [0m	dolldelivery.ValidatorSpec[0m
+[0m[[0mdebug[0m] [0m	IntegrationSpec[0m
+[0m[[0mdebug[0m] [0m	dolldelivery.ExtractorSpec[0m
+[0m[[0mdebug[0m] [0m	dolldelivery.FileLoaderSpec[0m
+[0m[[0mdebug[0m] [0m	dolldelivery.DeliverySolverSpec[0m
+[0m[[0mdebug[0m] [0m	ApplicationSpec[0m

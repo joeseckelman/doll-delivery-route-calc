@@ -1,0 +1,46 @@
+<com.garslo.dolldelivery.DeliverySolverSpec-results timestamp="1425869160481"><result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:13)" id="-241575384"><stats time="14" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:19)" id="-241575383"><stats expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:25)" id="-241575382"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.DeliverySolverSpec-results>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425869160522"><stats time="22" expectations="3" errors="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-results timestamp="1425869166881"><result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:13)" id="-241575384"><stats time="14" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:19)" id="-241575383"><stats time="1" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:25)" id="-241575382"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.DeliverySolverSpec-results>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425869166921"><stats time="23" expectations="3" errors="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-results timestamp="1425869732015"><result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:13)" id="-241575384"><stats time="13" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:19)" id="-241575383"><stats expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:25)" id="-241575382"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.DeliverySolverSpec-results>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425869732052"><stats time="22" expectations="3" errors="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-results timestamp="1425869765142"><result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:13)" id="-241575384"><stats time="13" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:19)" id="-241575383"><stats expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:25)" id="-241575382"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.DeliverySolverSpec-results>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425869765179"><stats time="22" expectations="3" errors="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-results timestamp="1425870019892"><result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:13)" id="-241575384"><stats time="13" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:19)" id="-241575383"><stats expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:25)" id="-241575382"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.DeliverySolverSpec-results>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425870019941"><stats time="21" expectations="3" errors="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-results timestamp="1425870214527"><result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:13)" id="-241575384"><stats time="12" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:19)" id="-241575383"><stats time="1" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.DeliverySolverSpec (DeliverySolverSpec.scala:25)" id="-241575382"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.DeliverySolverSpec-results>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425870214567"><stats time="21" expectations="3" errors="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425870440336"><stats time="113" expectations="3" successes="3" examples="3"><trend><stats time="113" errors="-3" successes="3"></stats></trend></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425870542354"><stats time="96" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425870664800"><stats time="94" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425870668141"><stats time="94" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425870975197"><stats time="107" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871020024"><stats time="99" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871164327"><stats time="95" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871171194"><stats time="92" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871218892"><stats time="92" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871325533"><stats time="94" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871357255"><stats time="100" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871363439"><stats time="93" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871401302"><stats time="102" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871410950"><stats time="90" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871451068"><stats time="103" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>
+<com.garslo.dolldelivery.DeliverySolverSpec-stats timestamp="1425871681970"><stats time="98" expectations="3" successes="3" examples="3"></stats></com.garslo.dolldelivery.DeliverySolverSpec-stats>

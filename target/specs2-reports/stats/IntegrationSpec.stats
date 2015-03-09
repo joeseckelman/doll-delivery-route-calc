@@ -1,0 +1,123 @@
+<IntegrationSpec-stats timestamp="1425836874538"><stats time="2894" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425837122060"><stats time="2596" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425837149322"><stats time="2413" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425837157774"><stats time="2476" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425837409110"><stats time="2419" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425845583474"><stats time="1632" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425845761163"><stats time="1612" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425847609124"><stats time="1540" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425847669666"><stats time="1494" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425847685202"><stats time="1570" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425847880973"><stats time="1598" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425847986845"><stats time="1601" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425848550785"><stats time="1581" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425849774886"><stats time="1600" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425849792993"><stats time="1529" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425855336497"><stats time="1592" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425856165277"><stats time="1560" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425857156252"><stats time="1550" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425857266779"><stats time="1618" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425857296688"><stats time="1540" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425858155087"><stats time="1603" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425858393392"><stats time="1576" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425859129221"><stats time="1501" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425859759572"><stats time="1553" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425859928192"><stats time="1611" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425860127535"><stats time="1562" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425860132492"><stats time="1531" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425860424357"><stats time="1645" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425860545239"><stats time="1630" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425861235763"><stats time="1606" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425861652216"><stats time="1582" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425861923143"><stats time="1634" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425861928193"><stats time="1505" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425862016900"><stats time="1550" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425864790756"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1922" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425864790768"><stats time="1923" expectations="1" errors="1" examples="1"><trend><stats time="1923" errors="1" successes="-1"></stats></trend></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425864968353"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1919" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425864968366"><stats time="1919" expectations="1" errors="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425865181846"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1873" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425865181860"><stats time="1874" expectations="1" errors="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425865623000"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1923" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425865623014"><stats time="1923" expectations="1" errors="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425865673900"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1816" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425865673915"><stats time="1817" expectations="1" errors="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425867071745"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1875" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425867071760"><stats time="1876" expectations="1" errors="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425868367085"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1804" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425868367104"><stats time="1805" expectations="1" errors="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425869059208"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1770" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425869059225"><stats time="1771" expectations="1" errors="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425869164227"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="2011" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425869164244"><stats time="2012" expectations="1" errors="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425869170549"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1988" expectations="1" errors="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425869170562"><stats time="1990" expectations="1" errors="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425869735245"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1598" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425869735282"><stats time="1598" expectations="1" failures="1" examples="1"><trend><stats time="1598" failures="1" errors="-1"></stats></trend></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425869768264"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1522" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425869768277"><stats time="1522" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425870022974"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1531" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425870022988"><stats time="1533" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425870217524"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1515" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425870217539"><stats time="1517" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425870443664"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1600" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425870443677"><stats time="1601" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425870545478"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1522" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425870545490"><stats time="1523" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425870671329"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1571" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425870671342"><stats time="1573" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425870978661"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1617" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425870978675"><stats time="1619" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425871022928"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1451" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425871022946"><stats time="1452" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425871174239"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1538" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425871174253"><stats time="1540" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425871221942"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1547" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425871221969"><stats time="1547" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425871328619"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1580" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425871328633"><stats time="1581" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425871360453"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1579" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425871360473"><stats time="1580" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425871366369"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1477" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425871366383"><stats time="1479" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425871404425"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1542" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425871404464"><stats time="1543" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-results timestamp="1425871413880"><result location="IntegrationSpec (IntegrationSpec.scala:17)" id="708906715"><stats time="1491" expectations="1" failures="1" examples="1"></stats></result>
+</IntegrationSpec-results>
+<IntegrationSpec-stats timestamp="1425871413897"><stats time="1492" expectations="1" failures="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425871454186"><stats time="1529" expectations="1" successes="1" examples="1"><trend><stats time="1529" failures="-1" successes="1"></stats></trend></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425871685129"><stats time="1542" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425872532041"><stats time="1693" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425872999264"><stats time="1677" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425873318203"><stats time="1545" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425873373295"><stats time="1573" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425873472091"><stats time="1549" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425873599999"><stats time="1605" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425873698907"><stats time="1633" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425873741869"><stats time="1689" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>
+<IntegrationSpec-stats timestamp="1425874244472"><stats time="1455" expectations="1" successes="1" examples="1"></stats></IntegrationSpec-stats>

@@ -1,0 +1,17 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           controllers.Application.index
+
+# Home page
+GET     /test-page                  controllers.Application.testPage
+GET     /scala-example              controllers.Application.scalaExample
+GET     /csv-example                controllers.Application.csvExample
+POST    /test-page/submit           controllers.Application.formprocessing
+
+GET     /map-distance/:mapfile		controllers.Application.mapDistance(mapfile: String)
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)

@@ -1,0 +1,101 @@
+<ApplicationSpec-stats timestamp="1425836874831"><stats time="166" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425837122333"><stats time="137" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425837149565"><stats time="135" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425837158036"><stats time="132" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425837409402"><stats time="143" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425845581718"><stats time="1036" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425845759421"><stats time="1026" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425847607446"><stats time="1072" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425847668050"><stats time="1037" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425847683503"><stats time="1067" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425847879213"><stats time="1042" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425847985073"><stats time="1046" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425848549017"><stats time="1045" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425849773112"><stats time="1105" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425849791324"><stats time="1051" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425855334736"><stats time="1045" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425856163552"><stats time="1062" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425857154563"><stats time="1059" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425857264993"><stats time="1070" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425857294993"><stats time="1047" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425858153294"><stats time="1058" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425858391679"><stats time="1053" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425859127554"><stats time="1037" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425859757858"><stats time="1089" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425859926425"><stats time="1111" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425860125833"><stats time="1086" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425860130806"><stats time="1050" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425860422566"><stats time="1116" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425860543465"><stats time="1067" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425861234017"><stats time="1179" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425861650495"><stats time="1141" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425861921363"><stats time="1095" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425861926547"><stats time="1139" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425862015206"><stats time="1108" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425864788710"><stats time="1130" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425864966308"><stats time="1126" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425865179853"><stats time="1107" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425865620929"><stats time="1165" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425865671956"><stats time="1107" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425867069669"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="410" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425867069728"><stats time="1115" expectations="2" failures="1" successes="1" examples="2"><trend><stats time="1115" failures="1" successes="-1"></stats></trend></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425868365084"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="385" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425868365131"><stats time="1118" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425869057270"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="357" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425869057307"><stats time="1050" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425869162123"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="335" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425869162149"><stats time="886" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425869168467"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="329" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425869168491"><stats time="892" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425869733542"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="339" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425869733559"><stats time="899" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425869766656"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="338" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425869766673"><stats time="909" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425870021351"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="328" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425870021371"><stats time="883" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425870215917"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="336" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425870215931"><stats time="871" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425870441995"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="366" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425870442008"><stats time="995" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425870543882"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="346" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425870543897"><stats time="929" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425870669657"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="358" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425870669672"><stats time="950" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425870976948"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="350" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425870976963"><stats time="1002" expectations="2" failures="1" successes="1" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425871021384"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="833" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425871021416"><stats time="834" expectations="1" failures="1" examples="1"><trend><stats time="834" expectations="-1" successes="-1" examples="-1"></stats></trend></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1425871172610"><result location="ApplicationSpec (ApplicationSpec.scala:22)" id="-1257939978"><stats time="331" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1425871172626"><stats time="879" expectations="2" failures="1" successes="1" examples="2"><trend><stats time="879" expectations="1" successes="1" examples="1"></stats></trend></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425871220341"><stats time="885" expectations="2" successes="2" examples="2"><trend><stats time="885" failures="-1" successes="1"></stats></trend></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425871326987"><stats time="901" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425871358809"><stats time="931" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425871364838"><stats time="870" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425871402825"><stats time="903" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425871412344"><stats time="849" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425871452587"><stats time="876" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425871683513"><stats time="906" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425872530260"><stats time="929" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425872997510"><stats time="996" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425873316554"><stats time="926" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425873371641"><stats time="915" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425873470467"><stats time="916" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425873598302"><stats time="951" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425873697198"><stats time="924" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425873740109"><stats time="995" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1425874242942"><stats time="854" expectations="2" successes="2" examples="2"></stats></ApplicationSpec-stats>

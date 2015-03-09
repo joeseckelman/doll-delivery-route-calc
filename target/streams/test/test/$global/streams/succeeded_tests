@@ -1,0 +1,14 @@
+#Successful Tests
+#Mon Mar 09 00:10:44 EDT 2015
+com.garslo.dolldelivery.ValidatorSpec=1425871682244
+ApplicationSpec=1425874242953
+dolldelivery.ValidatorSpec=1425874241740
+com.garslo.dolldelivery.DijkstraAlgorithmSpec=1425871682465
+dolldelivery.FileLoaderSpec=1425874242016
+com.garslo.dolldelivery.FileLoaderSpec=1425871682552
+com.garslo.dolldelivery.ExtractorSpec=1425871682352
+com.garslo.dolldelivery.DeliverySolverSpec=1425871682074
+dolldelivery.DeliverySolverSpec=1425874241629
+dolldelivery.ExtractorSpec=1425874241838
+dolldelivery.DijkstraAlgorithmSpec=1425874241945
+IntegrationSpec=1425874244483

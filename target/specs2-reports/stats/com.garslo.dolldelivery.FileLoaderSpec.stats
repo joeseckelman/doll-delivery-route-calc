@@ -1,0 +1,44 @@
+<com.garslo.dolldelivery.FileLoaderSpec-results timestamp="1425869161060"><result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:16)" id="1310337631"><stats expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:21)" id="-1998473942"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.FileLoaderSpec-results>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425869161067"><stats time="1" expectations="2" errors="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-results timestamp="1425869167478"><result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:16)" id="1310337631"><stats expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:21)" id="-1998473942"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.FileLoaderSpec-results>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425869167486"><stats time="2" expectations="2" errors="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-results timestamp="1425869732534"><result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:16)" id="1310337631"><stats time="1" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:21)" id="-1998473942"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.FileLoaderSpec-results>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425869732574"><stats time="1" expectations="2" errors="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-results timestamp="1425869765662"><result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:16)" id="1310337631"><stats expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:21)" id="-1998473942"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.FileLoaderSpec-results>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425869765675"><stats time="2" expectations="2" errors="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-results timestamp="1425870020389"><result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:16)" id="1310337631"><stats expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:21)" id="-1998473942"><stats time="1" expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.FileLoaderSpec-results>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425870020407"><stats time="2" expectations="2" errors="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-results timestamp="1425870214974"><result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:16)" id="1310337631"><stats expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:21)" id="-1998473942"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.FileLoaderSpec-results>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425870214983"><stats time="1" expectations="2" errors="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-results timestamp="1425870440815"><result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:16)" id="1310337631"><stats time="2" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:21)" id="-1998473942"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.FileLoaderSpec-results>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425870440825"><stats time="3" expectations="2" errors="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-results timestamp="1425870542834"><result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:16)" id="1310337631"><stats time="2" expectations="1" errors="1" examples="1"></stats></result>
+<result location="com.garslo.dolldelivery.FileLoaderSpec (DataLoaderSpec.scala:21)" id="-1998473942"><stats expectations="1" errors="1" examples="1"></stats></result>
+</com.garslo.dolldelivery.FileLoaderSpec-results>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425870542843"><stats time="4" expectations="2" errors="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425870668657"><stats time="15" expectations="2" successes="2" examples="2"><trend><stats time="15" errors="-2" successes="2"></stats></trend></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425870975892"><stats time="33" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871020506"><stats time="13" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871171682"><stats time="14" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871219391"><stats time="14" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871326021"><stats time="13" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871357800"><stats time="14" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871363902"><stats time="14" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871401851"><stats time="14" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871411429"><stats time="14" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871451640"><stats time="13" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>
+<com.garslo.dolldelivery.FileLoaderSpec-stats timestamp="1425871682540"><stats time="14" expectations="2" successes="2" examples="2"></stats></com.garslo.dolldelivery.FileLoaderSpec-stats>

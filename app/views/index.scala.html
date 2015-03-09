@@ -1,0 +1,15 @@
+@(output: String,syntaxtype: String,notHome: Int)
+
+
+@main("Welcome to Play heres a new message") {
+
+	@if(notHome == 1){
+	<h1>Map Output From: @syntaxtype</h1>
+	<pre>
+    @output
+    </pre>
+	} else {
+		<h1>Completely different title</h1>
+		<p>add fun stuff here when delusionally tired in the morning</p>
+	}
+}
